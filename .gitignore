@@ -1,0 +1,5 @@
+index.html
+*.txt
+**.txt
+**/*.txt
+**/*/*.txt
